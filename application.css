@@ -34,7 +34,7 @@ body { font-family: 'Gotham Narrow SSm A', 'Gotham Narrow SSm B'; color: #444; f
 #hd h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
 h2 { font-size: 152% }
 h3, h4 { font-size: 122%; }
-h1, h2, h3, h4 { color: #333; }
+h1, h2, h3, h4 { color: #333; font-family: 'Gotham SSm A', 'Gotham SSm B'; }
 p { font-size: 100%; line-height: 18px; padding-right: 3em; }
 a { color: #990003 }
 a:hover { text-decoration: none; }
